@@ -1,0 +1,6 @@
+opencv-python-headless==4.8.1.78
+streamlit
+tensorflow
+numpy
+pyttsx3
+Pillow
